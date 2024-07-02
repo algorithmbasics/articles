@@ -7,15 +7,24 @@ tags: [posts]
 image: nana-dua-aVeKubCF-48-unsplash.jpg
 ---
 
-
 <p align="center">
   <br>
   <em>Photo by Nana Dua on <a href="https://unsplash.com/photos/black-and-silver-round-device-aVeKubCF-48">Unsplash</a></em>
 </p>
 
+Nvidia (Ticker: $NVDA) supplies the lion's share of high resource-dependent[^1] physical capital factor inputs[^2] to companies building artificial intelligence training models. Nvidia's customer pool is diverse, including tech giants like Google, Microsoft, Amazon, and Facebook, as well as cloud service providers such as AWS, Google Cloud, and Microsoft Azure. Additionally, Nvidia serves self-driving vehicle companies like Tesla and Waymo, healthcare and biotech firms such as Recursion Pharmaceuticals, and financial institutions including JPMorgan Chase.
 
-Nvidia (Ticker: $NVDA) supplies the lion's share of the high resource-dependent[^1] physical capital factor inputs[^2] to companies building artificial intelligence training models. 
+Moreover, Nvidia's clientele extends to natural language processing (NLP) companies, AI research labs, and chip startups like OpenAI, Anthropic, DeepMind, and Scale AI. The company also caters to entertainment and gaming graphics companies, such as Midjourney. Beyond these, Nvidia supports a wide array of technology startups including the 19,000 recipients of the Nvidia Inception grant.
 
+It is important to note that the above listed pool does not include the millions of retail users (gamers, developers, and performance hardware owners) and the Web 3.0[^3] users (blockchain miners and dApp builders) because they are not directly involved in artifical intelligence sector. Nevertheless, the artifical intelligence sector is large. How can a new economy industry sector like artifical intelligence become so big so fast?[^4] And, more importantly, what is its economic consequence?
+
+# Economic analysis of artificial intelligence firms
+
+The analysis of artificial intelligence companies is not only to look at how efficiently does the capital investments in factor inputs yield economic profits but also to tabulate all externalities of such capital investments. And, on the topic of capital investments, the role of large players differ than the smaller startups. For one, large corporations' capital investments in artificial intelligence is risk-shared with other prospects in their investment set. Second, large corporations have existing commitments to abide by climate accords and reduce environmental footprint over the next decade. Third, large corporations cause higher externality effects. Smaller artificial intelligence startups, on the other hand, are exposed to same business risks as any other startup, ranging from increased default risk[^5] to the lack of a product variety[^6].
+
+## Economic profits
+
+What is the return to artificial intelligence capital investment?
 
 
 
@@ -48,3 +57,7 @@ hashtag#technology hashtag#finance hashtag#economics hashtag#stock hashtag#gdp h
 
 [^1]: Energy, Water, and Land for waste disposal.
 [^2]: GPUs (Graphics Processing Units), DGX Systems, HGX Platforms, CUDA, TensorRT SDK, and assorted NVIDIA AI Software and Networking Products.
+[^3]: Web 3.0, also known as Web3, refers to the next generation of the internet, which emphasizes decentralization, user control, and improved data privacy and security, using blockchain technologies, cryptocurrencies, and decentralized applications (dApps).
+[^4]: One-fourth of all global startup investments, roughly about $25 billion in 2023, went to the artificial intelligence sector startups, increasing the overall global artificial intelligence market to about $142.3 billion. AI's anticipated market value by 2025 is $200 billion. 22% of publicly traded firms are aggressively pursuing the integration of AI across a wide variety of technology products.
+[^5]: Roughly 90% of startup ventures end in failure. In the artifical intelligence sector, only about 20%, 25%, 40%, and 50% of startups succeed in the eCommerce and Healthcare, FinTech, EduTech, and gaming industries, respectively.
+[^6]: Most artificial intelligence products are being built on similar large language model offering similar retail experiences for customers.
