@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Meteoric Rise [and Fall] of $NVDA"
+title: "The Meteoric Rise [and the Fall] of $NVDA"
 author: "Suresh L. Paul"
 categories: posts
 tags: [posts]
@@ -9,19 +9,14 @@ image: nana-dua-aVeKubCF-48-unsplash.jpg
 
 
 <p align="center">
-  <img src="/assets/img/nana-dua-aVeKubCF-48-unsplash.jpg" alt="Photo by Nana Dua on Unsplash" />
   <br>
-  <em>Photo by Nana Dua on [Unsplash](https://unsplash.com/photos/black-and-silver-round-device-aVeKubCF-48)</em>
+  <em>Photo by Nana Dua on <a href="https://unsplash.com/photos/black-and-silver-round-device-aVeKubCF-48">Unsplash</a></em>
 </p>
 
 
 Nvidia (Ticker: $NVDA) supplies the lion's share of the high resource-dependent[^1] physical capital factor inputs[^2] to companies building artificial intelligence training models. 
 
 
-## References
-
-[^1]: Energy, Water, and Land for waste disposal.
-[^2]: GPUs (Graphics Processing Units), DGX Systems, HGX Platforms, CUDA, TensorRT SDK, and assorted NVIDIA AI Software and Networking Products.
 
 
 Let's conduct a simple economic cost analysis for hashtag#AI training.
@@ -47,3 +42,9 @@ Then the question remains: Can hashtag#Nvidia 10x? That puts it at $27 Trillion 
 
 ---
 hashtag#technology hashtag#finance hashtag#economics hashtag#stock hashtag#gdp hashtag#USA hashtag#China
+
+
+## References
+
+[^1]: Energy, Water, and Land for waste disposal.
+[^2]: GPUs (Graphics Processing Units), DGX Systems, HGX Platforms, CUDA, TensorRT SDK, and assorted NVIDIA AI Software and Networking Products.
