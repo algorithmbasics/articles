@@ -15,13 +15,13 @@ image: nana-dua-aVeKubCF-48-unsplash.jpg
 </p>
 
 
-Nvidia (Ticker: $NVDA) supplies the lion's share of high resource-dependent[^1] physical capital factor inputs[^2] to companies building artificial intelligence training models. 
+Nvidia (Ticker: $NVDA) supplies the lion's share of the high resource-dependent[^1] physical capital factor inputs[^2] to companies building artificial intelligence training models. 
 
 
 ## References
 
 [^1]: Energy, Water, and Land for waste disposal.
-[^2]: Chips, servers, and GPU blocks
+[^2]: GPUs (Graphics Processing Units), DGX Systems, HGX Platforms, CUDA, TensorRT SDK, and assorted NVIDIA AI Software and Networking Products.
 
 
 Let's conduct a simple economic cost analysis for hashtag#AI training.
