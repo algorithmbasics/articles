@@ -16,7 +16,7 @@ Nvidia (Ticker: $NVDA) supplies the lion's share of high resource-dependent[^1] 
 
 Moreover, Nvidia's clientele extends to natural language processing (NLP) companies, AI research labs, and chip startups like OpenAI, Anthropic, DeepMind, and Scale AI. The company also caters to entertainment and gaming graphics companies, such as Midjourney. Beyond these, Nvidia supports a wide array of technology startups including the 19,000 recipients of the Nvidia Inception grant.
 
-It is important to note that the above listed pool does not include the millions of retail users (gamers, developers, and performance hardware owners) and the Web 3.0[^3] users (blockchain miners and dApp builders) because they are not directly involved in artifical intelligence sector. Nevertheless, the artifical intelligence sector is large. How can a new economy industry sector like artifical intelligence become so big so fast?[^4] And, more importantly, what is its economic consequence?
+It is important to note that the above listed pool does not include the millions of retail users (gamers, developers, and performance hardware owners) and the Web 3.0[^3] users (blockchain miners and dApp builders) because they are not directly involved in artificial intelligence sector. Nevertheless, the artificial intelligence sector is large. How can a new economy industry sector like artificial intelligence become so big so fast?[^4] And, more importantly, what is its economic consequence?
 
 # Economic analysis of artificial intelligence firms
 
@@ -48,14 +48,13 @@ Legacy data centers used for AI require substantial cooling, often using water-b
 
 ### E-waste
 
-The rapid advancement of the artificial intelligence systems necessitates frequent hardware upgrades. As evidenced by Nvidia's own technology conferences, the 2022 chipsets became outdated by 2023, the 2023 chipsets by 2024, and one could expect this pattern to persist into the next decade. Consequently, much of this obsolete electronic waste ends up in landfills and oceans. Let's assume that the costs to maintain water neutrality be `C`.
+The rapid advancement of the artificial intelligence systems necessitates frequent hardware upgrades. As evidenced by Nvidia's own technology conferences, the 2022 chipsets became outdated by 2023, the 2023 chipsets by 2024, and one could expect this pattern to persist into the next decade. Consequently, much of this obsolete electronic waste ends up in landfills and oceans. Let's assume that the costs to maintain e-waste neutrality be `C`.
 
 ### Regulation
 
-Regulators have thus far applied generalized technology laws to artificial intelligence products. However, it is becoming increasingly evident that requirements for transparency, consent, and racial/gender inclusion will not be sufficient to ensure artificial intelligence aligns as a social product. A more comprehensive approach is needed to establish AI as a public good, incorporating robust antitrust and competition laws. For instance, in July 2024, Nvidia faced antitrust complaints from France, citing anticompetitive practices, over-reliance on CUDA software, and barrier to new entrants. Let's assume that the regulatory costs to be `D`.
+Regulators have thus far applied generalized technology laws to artificial intelligence products. However, it is becoming increasingly evident that requirements for transparency, consent, and racial/gender inclusion will not be sufficient to ensure artificial intelligence aligns as a social product. A more comprehensive approach is needed to establish artificial intelligence as a public good, incorporating robust antitrust and competition laws. For instance, in July 2024, Nvidia faced antitrust complaints from France, citing anticompetitive practices, over-reliance on CUDA software, and barrier to new entrants. Let's assume that the regulatory costs to be `D`.
 
-Sooner or later, artificial intelligence startups and technology companies are going to weigh in the economic cost against the perceived gains of housing their own artificial intelligence training models, and as costs (`A+B+C+D`) rise, the marginal product on the artificial intelligence capital investments would decline. More empirical work is required to estimate the magnitude of the economic costs (`A+B+C+D`) of artificial intelligence training.
-
+Sooner or later, artificial intelligence startups and technology companies are going to weigh in the economic cost against the perceived gains of housing their own artificial intelligence training models, and as costs (`A+B+C+D`) rise, the marginal product on the artificial intelligence capital investments would decline. More empirical work is required to estimate the magnitude of the economic costs of artificial intelligence training. However, one thing is certain: when the true cost estimates of artificial intelligence training (i.e., A + B + C + D) are revealed, smaller companies will need to reevaluate the viability of training custom models. They will have to determine whether it is more cost-effective to train their own models or to utilize pre-trained models from large technology companies for a subscription fee.
 
 ## What do Nvidia's financials say?
 
@@ -73,8 +72,11 @@ Nvidia's price-to-earnings (P/E) ratio currently stands at 72. This means invest
 
 Nvidia's risk-return sensitivity, represented by its Beta (5-year average), is 1.69. This means that a 1% increase (or decrease) in the S&P 500 index return typically results in a 1.69% increase (or decrease) in Nvidia's return. While this high Beta can be advantageous during market expansions, it poses significant risks during market contractions. Some experts predict a severe correction in the US stock market, potentially declining by as much as 40%. Given Nvidia's Beta, such a correction would imply a corresponding drop in Nvidia's stock price by approximately 68%.
 
-***
+## Remarks
 
+It is quite possible that artificial intelligence startups and technology companies will come to realize the substantial economic costs associated with training models, especially when factoring in the immense social and environmental impacts. When this occurs, the artificial intelligence sector is likely to undergo consolidation, leading to a decline in the demand for physical capital inputs. Consequently, Nvidia's market will contract. Given the high investor expectations for Nvidia's stock appreciation, a reduction in Nvidia's customer base will trigger a correction towards fundamental values. This adjustment will likely bring the stock price back to a level where the price-to-earnings ratio aligns with market peer averages, estimated around 35.
+
+***
 
 ## References
 
@@ -82,7 +84,7 @@ Nvidia's risk-return sensitivity, represented by its Beta (5-year average), is 1
 [^2]: GPUs (Graphics Processing Units), DGX Systems, HGX Platforms, CUDA, TensorRT SDK, and assorted NVIDIA AI Software and Networking Products.
 [^3]: Web 3.0, also known as Web3, refers to the next generation of the internet, which emphasizes decentralization, user control, and improved data privacy and security, using blockchain technologies, cryptocurrencies, and decentralized applications (dApps).
 [^4]: One-fourth of all global startup investments, roughly about $25 billion in 2023, went to the artificial intelligence sector startups, increasing the overall global artificial intelligence market to about $142.3 billion. AI's anticipated market value by 2025 is $200 billion. 22% of publicly traded firms are aggressively pursuing the integration of AI across a wide variety of technology products.
-[^5]: Roughly 90% of startup ventures end in failure. In the artifical intelligence sector, only about 20%, 25%, 40%, and 50% of startups succeed in the eCommerce and Healthcare, FinTech, EduTech, and gaming industries, respectively.
+[^5]: Roughly 90% of startup ventures end in failure. In the artificial intelligence sector, only about 20%, 25%, 40%, and 50% of startups succeed in the eCommerce and Healthcare, FinTech, EduTech, and gaming industries, respectively.
 [^6]: LLMs are unlikely to be one size fits all. Most artificial intelligence products built on today's large language models offer similar retail experiences for customers.
 [^7]: See [https://www.iea.org/reports/electricity-2024/executive-summary](https://www.iea.org/reports/electricity-2024/executive-summary)
 [^8]: For example, Bitcoin mining.
