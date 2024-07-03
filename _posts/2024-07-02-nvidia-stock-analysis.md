@@ -3,7 +3,7 @@ layout: post
 title: "The Meteoric Rise [and the Fall] of $NVDA"
 author: "Suresh L. Paul"
 categories: posts
-tags: [posts]
+tags: [posts, technology, finance, economics, stock analysis, gdp, USA, China, Nvidia, artificial intelligence, LLMs]
 image: nana-dua-aVeKubCF-48-unsplash.jpg
 ---
 
@@ -20,37 +20,60 @@ It is important to note that the above listed pool does not include the millions
 
 # Economic analysis of artificial intelligence firms
 
-The analysis of artificial intelligence companies is not only to look at how efficiently does the capital investments in factor inputs yield economic profits but also to tabulate all externalities of such capital investments. And, on the topic of capital investments, the role of large players differ than the smaller startups. For one, large corporations' capital investments in artificial intelligence is risk-shared with other prospects in their investment set. Second, large corporations have existing commitments to abide by climate accords and reduce environmental footprint over the next decade. Third, large corporations cause higher externality effects. Smaller artificial intelligence startups, on the other hand, are exposed to same business risks as any other startup, ranging from increased default risk[^5] to the lack of a product variety[^6].
+The analysis of artificial intelligence companies is not only to look at how efficiently does the capital investments in factor inputs yield economic profits but also to tabulate all externalities of such capital investments. And, on the topic of capital investments, the role of large players differ than the smaller startups. For one, large corporations' capital investments in artificial intelligence is risk-shared with other prospects in their investment opportunity set. Second, large corporations have existing commitments to abide by various climate pledges made to shareholders. Third, in the event that large corporations plan to relax their commitments towards offsetting carbon footprint, they may cause higher externality effects than the smaller players. Smaller artificial intelligence startups, on the other hand, are exposed to an increased default risk[^5] due to high capital investments need and a lack of a product variety[^6].
 
-## Economic profits
+## Economic costs
 
-What is the return to artificial intelligence capital investment?
+What are the cost to artificial intelligence capital investment?
+
+### Energy
+
+<p align="center">
+  <br>
+  <img src="assets/img/Dell_servers_nvidia.jpg" alt="Dell servers with Nvidia">
+  <em>Dell AI factory with @nvidia to power @grok for @xai @elonmusk <a href="https://x.com/MichaelDell/status/1803385185984974941">tweet</a></em>
+</p>
+
+Current artificial intelligence training processes, with their substantial modelling complexities, can result in significant carbon emissions, contingent upon the energy sources employed. This complexity is anticipated to increase exponentially over the next decade. In response, some companies are transitioning to renewable energy sources for their data centers to mitigate the environmental impact. However, these renewable resources were originally designated for existing residential and commercial consumption to aid in reducing our overall carbon footprint and achieving targeted carbon emission reductions. This shift occurs at a time when global electricity demand is projected to escalate rapidly, with an expected annual growth rate of 3.4% through 2026.[^7] This shift occurs at a time when fossil fuel-based technologies are facing severe condemnation from governments worldwide.[^8] Let's assume that the costs to maintain carbon neutrality be `A`.
+
+### Water
+
+<p align="center">
+  <br>
+  <img src="assets/img/datacenters_nvidia.png" alt="Amazon AWS Liquid Cooled Data Center">
+  <em>Amazon AWS Liquid Cooled Data Center</em>
+</p>
+
+Legacy data centers used for AI require substantial cooling, often using water-based systems. These systems rely on local water reservoirs that are otherwise use for farming, livestock, and human consumption. In 2021, a Google data center consumes 4.3 billion gallons of water annually.[^9] Microsoft's water consumption was nearly 1.7 billion gallons of water in 2022.[^10] Amazon AWS data centers have consumed in excess of a billion gallons of water per year and are expected to become Water-positive only by the year 2030.[^11] This can strain local water resources, especially in water-scarce regions. World Resources Institute reports that, in the next decade, 25 countries, housing one-quarter of the global population, face extremely high water stress, and we can expect these populace to migrate to regions with water. About $70 trillion in GDP (31% of global GDP) will be exposed to high water stress by 2050. Let's assume that the costs to maintain water neutrality be `B`.
+
+### E-waste
+
+The rapid advancement of the artificial intelligence systems necessitates frequent hardware upgrades. As evidenced by Nvidia's own technology conferences, the 2022 chipsets became outdated by 2023, the 2023 chipsets by 2024, and one could expect this pattern to persist into the next decade. Consequently, much of this obsolete electronic waste ends up in landfills and oceans. Let's assume that the costs to maintain water neutrality be `C`.
+
+### Regulation
+
+Regulators have thus far applied generalized technology laws to artificial intelligence products. However, it is becoming increasingly evident that requirements for transparency, consent, and racial/gender inclusion will not be sufficient to ensure artificial intelligence aligns as a social product. A more comprehensive approach is needed to establish AI as a public good, incorporating robust antitrust and competition laws. For instance, in July 2024, Nvidia faced antitrust complaints from France, citing anticompetitive practices, over-reliance on CUDA software, and barrier to new entrants. Let's assume that the regulatory costs to be `D`.
+
+Sooner or later, artificial intelligence startups and technology companies are going to weigh in the economic cost against the perceived gains of housing their own artificial intelligence training models, and as costs (`A+B+C+D`) rise, the marginal product on the artificial intelligence capital investments would decline. More empirical work is required to estimate the magnitude of the economic costs (`A+B+C+D`) of artificial intelligence training.
 
 
+## What do Nvidia's financials say?
 
-Let's conduct a simple economic cost analysis for hashtag#AI training.
+Nvidia's price-to-sales (P/S) ratio is approximately 38, resulting in a revenue per share of 3.23. In other words, Nvidia, with a market capitalization of around $3 trillion, generates annual revenue just shy of $80 billion. For comparison, other companies with similar annual revenues include:
 
-I. Energy
-hashtag#AI training can produce significant carbon emissions, depending on the energy sources used. Some companies are moving towards using renewable energy for their data centers to mitigate this impact. Nevertheless, these are energy sources that were earmarked for other residential and commercial uses to reduce our carbon footprint and put us on path in achieving the Climate Accord Carbon Emission goals. Can hashtag#AI technology companies still claim that they are carbon net neutral?
+- [Lowe's Companies](https://finance.yahoo.com/quote/LOW/key-statistics/): revenue per share of 150
+- [Albertsons Companies](https://finance.yahoo.com/quote/ACI/key-statistics/): revenue per share of 138
+- [Boeing](https://finance.yahoo.com/quote/BA/key-statistics/): revenue per share of 126
+- [Siemens](https://finance.yahoo.com/quote/SIE.DE/key-statistics/): revenue per share of 100
+- [T-Mobile](https://finance.yahoo.com/quote/TMUS/key-statistics/): revenue per share of 67
+- [Procter & Gamble](https://finance.yahoo.com/quote/PG/key-statistics/): revenue per share of 36
+- [Wells Fargo](https://finance.yahoo.com/quote/WFC/key-statistics/): revenue per share of 21.5
 
-II. Water
-Data centers used for AI require substantial cooling, often using water-based systems. This can strain local water resources, especially in water-scarce regions. World Resources Institute reports that, in the next decade, 25 countries, housing one-quarter of the global population, face extremely high water stress, and we can expect these populace to migrate to regions with water. About $70 trillion in GDP (31% of global GDP) will be exposed to high water stress by 2050. Can societies afford water allocation to hashtag#AI systems?
+Nvidia's price-to-earnings (P/E) ratio currently stands at 72. This means investors are willing to pay $72 for every $1 of earnings the company generates. In other words, investors would need to wait through 72 earnings cycles (72 quarters, or 18 years) to recoup their investment at the current earnings level. However, the investor's bet is on potential stock appreciation to mitigate this wait-time. To reduce the wait-time to a typical retail investor's holding period of 36 months, the stock would need to appreciate sixfold. This raises the question: Can Nvidia achieve a sixfold increase? This would result in an $18 trillion market capitalization, which is 20% of the global GDP, equivalent to the US real consumption, or comparable to China's current GDP. By all reasonable metrics, such an appreciation appears highly unrealistic. So, why are investors purchasing Nvidia stock at such a high premium, and why do analysts continue to recommend it as a BUY? In essence, it is because they do not fully comprehend the artificial intelligence landscape and are swayed by buzzwords.
 
-III. E-waste
-Considering the entire life cycle of AI systems manufactured by hashtag#Nvidia, from manufacturing to disposal, the rapid advancement of AI technology leads to frequent hardware upgrades. 2022 chipsets were outdated in 2023, 2023 chipsets were outdated in 2024. And, we can reasonably expect, based on Moore's law, that the trend will continue. Can our landfills and oceans take more electronic waste - that are heavy metal rich?
+Nvidia's risk-return sensitivity, represented by its Beta (5-year average), is 1.69. This means that a 1% increase (or decrease) in the S&P 500 index return typically results in a 1.69% increase (or decrease) in Nvidia's return. While this high Beta can be advantageous during market expansions, it poses significant risks during market contractions. Some experts predict a severe correction in the US stock market, potentially declining by as much as 40%. Given Nvidia's Beta, such a correction would imply a corresponding drop in Nvidia's stock price by approximately 68%.
 
-Sooner or later, hashtag#AI companies are going to weigh in the cost against the perceived gains of hashtag#AI training, and the marginal product of hashtag#AI investments is going to decline. 
-
-WHAT HAPPENS TO hashtag#NVIDIA WHEN THAT HAPPENS?
----
-Did the financials already signal hashtag#NVIDIA's demise?
-
-hashtag#Nvidia has a PE of 80. A P/E of 80 indicates that investors are willing to pay $80 for every $1 of earnings the company generates. Put another way, investors have to wait 80 earnings cycles to get their money back for the price that they paid. The investor bet, however, is that it is possible that hashtag#Nvidia stock appreciates sufficiently (say, 10x) so that that wait-time is considerably lower. 
-
-Then the question remains: Can hashtag#Nvidia 10x? That puts it at $27 Trillion market capitalization. That's higher than the entire US Annual GDP less government spending (Consumption, Investments, and Net Exports) or about $10 Trillion more than entire China's GDP. In my opinion and by every reasonable metric, that's never going to happen! Then, why are investors buying hashtag#Nvidia at such a premium and why are hashtag#analysts still recommending a hashtag#BUY? In a nutshell, it is because they don't understand the hashtag#AI landscape and are driven by buzz words.
-
----
-hashtag#technology hashtag#finance hashtag#economics hashtag#stock hashtag#gdp hashtag#USA hashtag#China
+***
 
 
 ## References
@@ -60,4 +83,9 @@ hashtag#technology hashtag#finance hashtag#economics hashtag#stock hashtag#gdp h
 [^3]: Web 3.0, also known as Web3, refers to the next generation of the internet, which emphasizes decentralization, user control, and improved data privacy and security, using blockchain technologies, cryptocurrencies, and decentralized applications (dApps).
 [^4]: One-fourth of all global startup investments, roughly about $25 billion in 2023, went to the artificial intelligence sector startups, increasing the overall global artificial intelligence market to about $142.3 billion. AI's anticipated market value by 2025 is $200 billion. 22% of publicly traded firms are aggressively pursuing the integration of AI across a wide variety of technology products.
 [^5]: Roughly 90% of startup ventures end in failure. In the artifical intelligence sector, only about 20%, 25%, 40%, and 50% of startups succeed in the eCommerce and Healthcare, FinTech, EduTech, and gaming industries, respectively.
-[^6]: Most artificial intelligence products are being built on similar large language model offering similar retail experiences for customers.
+[^6]: LLMs are unlikely to be one size fits all. Most artificial intelligence products built on today's large language models offer similar retail experiences for customers.
+[^7]: See [https://www.iea.org/reports/electricity-2024/executive-summary](https://www.iea.org/reports/electricity-2024/executive-summary)
+[^8]: For example, Bitcoin mining.
+[^9]: See [https://blog.google/outreach-initiatives/sustainability/our-commitment-to-climate-conscious-data-center-cooling/](https://blog.google/outreach-initiatives/sustainability/our-commitment-to-climate-conscious-data-center-cooling/)
+[^10]: See [https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15mgm](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW15mgm)
+[^11]: See [https://sustainability.aboutamazon.com/natural-resources/water](https://sustainability.aboutamazon.com/natural-resources/water)
