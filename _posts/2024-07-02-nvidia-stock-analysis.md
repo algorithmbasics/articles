@@ -16,7 +16,7 @@ Nvidia (Ticker: $NVDA) supplies the lion's share of high resource-dependent[^1] 
 
 Moreover, Nvidia's clientele extends to natural language processing (NLP) companies, AI research labs, and chip startups like OpenAI, Anthropic, DeepMind, and Scale AI. The company also caters to entertainment and gaming graphics companies, such as Midjourney. Beyond these, Nvidia supports a wide array of technology startups including the 19,000 recipients of the Nvidia Inception grant.
 
-It is important to note that the above listed pool does not include the millions of retail users (gamers, developers, and performance hardware owners) and the Web 3.0[^3] users (blockchain miners and dApp builders) because they are not directly involved in artificial intelligence sector. Nevertheless, the artificial intelligence sector is large. How can a new economy industry sector like artificial intelligence become so big so fast?[^4] And, more importantly, what is its economic consequence?
+It is important to note that the above listed pool does not include the millions of retail users (gamers, developers, and performance hardware owners) and the Web 3.0[^3] users (blockchain miners and dApp builders) because they are not directly involved in the artificial intelligence sector. Nevertheless, the artificial intelligence sector is large. How can a new economy industry sector like artificial intelligence become so big so fast?[^4] And, more importantly, what is its economic consequence?
 
 # Economic analysis of artificial intelligence firms
 
@@ -58,23 +58,23 @@ Sooner or later, artificial intelligence startups and technology companies are g
 
 ## What do Nvidia's financials say?
 
-Nvidia's price-to-sales (P/S) ratio is approximately 38, resulting in a revenue per share of 3.23. In other words, Nvidia, with a market capitalization of around $3 trillion, generates annual revenue just shy of $80 billion. For comparison, other companies with similar annual revenues include:
+Nvidia's price-to-sales (P/S) ratio is approximately 38, resulting in a revenue per share of `3.23`. In other words, Nvidia, with a market capitalization of around $3 trillion, generates annual revenue just shy of $80 billion. For comparison, other companies with similar annual revenues with substantial higher per-share revenues include:
 
-- [Lowe's Companies](https://finance.yahoo.com/quote/LOW/key-statistics/): revenue per share of 150
-- [Albertsons Companies](https://finance.yahoo.com/quote/ACI/key-statistics/): revenue per share of 138
-- [Boeing](https://finance.yahoo.com/quote/BA/key-statistics/): revenue per share of 126
-- [Siemens](https://finance.yahoo.com/quote/SIE.DE/key-statistics/): revenue per share of 100
-- [T-Mobile](https://finance.yahoo.com/quote/TMUS/key-statistics/): revenue per share of 67
-- [Procter & Gamble](https://finance.yahoo.com/quote/PG/key-statistics/): revenue per share of 36
-- [Wells Fargo](https://finance.yahoo.com/quote/WFC/key-statistics/): revenue per share of 21.5
+- [Lowe's Companies](https://finance.yahoo.com/quote/LOW/key-statistics/): revenue per share of `150`
+- [Albertsons Companies](https://finance.yahoo.com/quote/ACI/key-statistics/): revenue per share of `138`
+- [Boeing](https://finance.yahoo.com/quote/BA/key-statistics/): revenue per share of `126`
+- [Siemens](https://finance.yahoo.com/quote/SIE.DE/key-statistics/): revenue per share of `100`
+- [T-Mobile](https://finance.yahoo.com/quote/TMUS/key-statistics/): revenue per share of `67`
+- [Procter & Gamble](https://finance.yahoo.com/quote/PG/key-statistics/): revenue per share of `36`
+- [Wells Fargo](https://finance.yahoo.com/quote/WFC/key-statistics/): revenue per share of `21.5`
 
-Nvidia's price-to-earnings (P/E) ratio currently stands at 72. This means investors are willing to pay $72 for every $1 of earnings the company generates. In other words, investors would need to wait through 72 earnings cycles (72 quarters, or 18 years) to recoup their investment at the current earnings level. However, the investor's bet is on potential stock appreciation to mitigate this wait-time. To reduce the wait-time to a typical retail investor's holding period of 36 months, the stock would need to appreciate sixfold. This raises the question: Can Nvidia achieve a sixfold increase? This would result in an $18 trillion market capitalization, which is 20% of the global GDP, equivalent to the US real consumption, or comparable to China's current GDP. By all reasonable metrics, such an appreciation appears highly unrealistic. So, why are investors purchasing Nvidia stock at such a high premium, and why do analysts continue to recommend it as a BUY? In essence, it is because they do not fully comprehend the artificial intelligence landscape and are swayed by buzzwords.
+Nvidia's price-to-earnings (P/E) ratio currently stands at `72`. This means investors are willing to pay $72 for every $1 of earnings the company generates. In other words, investors would need to wait through 72 earnings cycles (72 quarters, or 18 years) to recoup their investment at the current earnings levels. However, the investor's bet is on potential stock appreciation to mitigate this wait-time. To reduce the wait-time to a typical retail investor's holding period of 36 months, the stock would need to appreciate sixfold. This raises the question: Can Nvidia achieve a sixfold increase from here? This would result in an $18 trillion market capitalization, which is approximately equivalent to China's current annual output, about 20% of the entire world's current annual output, equivalent to the US annual real consumption, or the combined annual outputs of Germany, Japan, India, the UK, and France put together. By all reasonable metrics, such an appreciation appears highly unrealistic. So, why are investors purchasing Nvidia stock at such a high premium, and why do analysts continue to recommend it as a BUY? In essence, it is because they do not fully comprehend the artificial intelligence landscape and are swayed by buzzwords.
 
-Nvidia's risk-return sensitivity, represented by its Beta (5-year average), is 1.69. This means that a 1% increase (or decrease) in the S&P 500 index return typically results in a 1.69% increase (or decrease) in Nvidia's return. While this high Beta can be advantageous during market expansions, it poses significant risks during market contractions. Some experts predict a severe correction in the US stock market, potentially declining by as much as 40%. Given Nvidia's Beta, such a correction would imply a corresponding drop in Nvidia's stock price by approximately 68%.
+Nvidia's risk-return sensitivity, represented by its Beta (5-year average), is `1.69`. This means that a 1% increase (or decrease) in the S&P 500 index return typically results in a 1.69% increase (or decrease) in Nvidia's return. While this high Beta can be advantageous during market expansions, it poses significant risks during market contractions. Some experts predict a severe correction in the US stock market, potentially declining by as much as 40%. Given Nvidia's Beta, such a correction would imply a corresponding drop in Nvidia's stock price by approximately 68%.
 
 ## Remarks
 
-It is quite possible that artificial intelligence startups and technology companies will come to realize the substantial economic costs associated with training models, especially when factoring in the immense social and environmental impacts. When this occurs, the artificial intelligence sector is likely to undergo consolidation, leading to a decline in the demand for physical capital inputs. Consequently, Nvidia's market will contract. Given the high investor expectations for Nvidia's stock appreciation, a reduction in Nvidia's customer base will trigger a correction towards fundamental values. This adjustment will likely bring the stock price back to a level where the price-to-earnings ratio aligns with market peer averages, estimated around 35.
+It is quite possible that artificial intelligence startups and technology companies will come to realize the substantial economic costs associated with training models, especially when factoring in the immense social and environmental impacts. When this occurs, the artificial intelligence sector is likely to undergo consolidation, leading to a decline in the demand for physical capital inputs. Consequently, Nvidia's market will contract. Given the high investor expectations for Nvidia's stock appreciation, a reduction in Nvidia's customer base will trigger a correction towards fundamental values. This adjustment will likely bring the stock price back to a level where the price-to-earnings ratio aligns with market peer averages, estimated around `35`.
 
 ***
 
